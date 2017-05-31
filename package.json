@@ -1,6 +1,6 @@
 {
   "name": "anypoint-radio-group",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "All rights reserved to Mulesoft Inc.",
   "description": "A group of Anypoint radio buttons",
   "devDependencies": {
