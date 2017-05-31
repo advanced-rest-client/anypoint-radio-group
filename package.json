@@ -1,7 +1,7 @@
 {
   "name": "anypoint-radio-group",
   "version": "0.1.0",
-  "license": "Apache-2.0 OR CC-BY-4.0",
+  "license": "All rights reserved to Mulesoft Inc.",
   "description": "A group of Anypoint radio buttons",
   "devDependencies": {
     "polymer-cli": "^0.16.0"
